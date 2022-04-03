@@ -81,3 +81,11 @@ When `env.php` file is ready, open terminal and type:
 ```bash 
 php test.php
 ```
+## API Documents
+* [UpStream repository](https://github.com/ippanel)
+* [Document](https://sms.ariaservice.net/files/upload/api.pdf)
+
+## Credits
+* Programmed by [YiiMan](https://github.com/yiiman-dev)
+* Sponsored by [AriaService](https://ariaservice.net/)
+* Powered by [APIStorm](https://github.com/yiiman-dev/apistorm)
